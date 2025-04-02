@@ -63,6 +63,9 @@ The AI bot uses a combination of heuristics to decide the best possible moves fo
 The AI evaluates possible moves based on these heuristics and selects the move with the best overall score.
 ![AI BOT](https://github.com/JustSpring/multiplayer-tetris/assets/87150546/d1683904-63cd-4b02-b514-c57874816ef0)
 
+## Single-Player Cognitive Load Mode
+The `single_player.py`  is uniquely designed to test cognitive load. In addition to offering the classic Tetris experience, this mode serves as a practical tool for evaluating how players manage and respond to increasing mental demands1.
+
 ## Controls
 
 - **Left Arrow**: Move left
